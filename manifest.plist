@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GamePark.GoldenAisaTest</string>
+				<string>com.GamePark.xinya</string>
 				<key>bundle-version</key>
 				<string>38</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>金亚洲测试</string>
+				<string>新亚测试</string>
 			</dict>
 		</dict>
 	</array>
